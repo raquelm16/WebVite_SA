@@ -1,0 +1,36 @@
+.container {
+    display:flex;
+    background-color: #fff;
+    flex-direction: column;
+  }
+
+  .gradeTitleOne {
+    align-self: center;
+    font-size: 22px;
+    margin-bottom: 6%;
+    margin-top: 8%
+  }
+
+  .gradeTitleTwo {
+    align-self: center;
+    font-size: 22px;
+    margin-bottom: 6%;
+    margin-top: 8%
+  }
+
+  .gradeTitleThree {
+    align-self: center;
+    font-size: 22px;
+    margin-bottom: 6%;
+    margin-top: 8%
+  }
+
+  .botao {
+    background-color: #00589F;
+    margin:2%;
+    padding:14%;
+    color:white;
+    font-weight: bold;
+    font-size:18px
+  }
+ 
