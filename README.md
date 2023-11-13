@@ -1,6 +1,7 @@
 <h3>Checklist Vite</h3>
 
 - [X] ScreenStudentClassSelection
+- [ ] ScreenStudentFirstGrade1A
 
 <hr>
 <h3>Passo a passo para abrir Vite</h3>
