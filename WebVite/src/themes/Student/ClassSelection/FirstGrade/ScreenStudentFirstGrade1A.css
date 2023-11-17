@@ -1,0 +1,109 @@
+.container{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    color:black
+}
+
+.perfil{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: flex-end;
+}
+
+.perfilBotao{
+  background-color: #003F72;
+  color:white;
+}
+
+.nome{
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.card{
+    display:flex;
+    background-color: #E7E7E7;
+    flex-direction: row;
+    padding: 30px;
+    margin-bottom: 25px;
+    justify-content: center;
+    border-radius: 14px;
+    width: 90%
+}
+
+.sala {
+    font-size: 25px;
+    margin-right: 25px;
+    margin-left:10px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.align{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.vazio {
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 30px;
+    height: 40px
+  }
+
+  .hor1 {
+    font-size: 25px;
+   margin-left: 25px;
+    margin-right: 25px;
+    font-weight: 500;
+  }
+
+  .hor2 {
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-weight: 500;
+  }
+
+  .hor3 {
+    font-size: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-weight: 500;
+  }
+
+  .hor4 {
+    font-size: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-weight: 500;
+  }
+
+  .info {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    font-weight: 500;
+  }
+
+  .botao{
+    background-color:#d0d0d0;
+    text-align: center;
+    margin-right:-10px;
+    margin-left:10px;
+    font-size: 20px;
+  }
+
+  .barra {
+    border-width: 1px;
+    border-color: #6B6B6B;
+  }
+
+  .turno {
+    font-size: 25px;
+    margin: 22px;
+  }
