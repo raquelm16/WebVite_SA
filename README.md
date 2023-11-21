@@ -3,6 +3,8 @@
 - [X] ScreenStudentClassSelection
 - [X] ScreenStudentFirstGrade1A
 - [X] ScreenStudentProfile
+- [X] ScreenTeacherProfile
+- [X] ScreenAdmProfile
 
 <hr>
 <h3>Passo a passo para abrir Vite</h3>
