@@ -5,6 +5,7 @@
 - [X] ScreenStudentProfile
 - [X] ScreenTeacherProfile
 - [X] ScreenAdmProfile
+- [ ] ScreenAdmClassrooms
 
 <hr>
 <h3>Passo a passo para abrir Vite</h3>
