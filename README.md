@@ -1,7 +1,7 @@
 <h3>Checklist Vite</h3>
 
 - [X] ScreenStudentClassSelection
-- [] ScreenStudentFirstGrade1A
+- [ ] ScreenStudentFirstGrade1A
 - [X] ScreenStudentProfile
 
 <hr>
