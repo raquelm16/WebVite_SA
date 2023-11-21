@@ -1,0 +1,119 @@
+
+.container{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: black;
+}
+
+.alignRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 75px;
+}
+
+.alignColumn{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textPrimary{
+    font-size: 25px;
+    color: #6b6b6b;
+    font-weight: 600;
+}
+
+.textSecondary{
+    font-size: 22px;
+    color: #939393;
+    margin-bottom: 20px;
+    margin-top: 3px;
+    font-weight: 500;
+}
+
+.user{
+    width:160px;
+    height:160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+}
+
+.bluePencil{
+    width:34px;
+    height: 34px;
+    margin-top: 4px;
+}
+
+.bluePencilCircle{
+    background-color: #003f72;
+    clip-path: circle();
+    border-width: 22px;
+    border-color: #003f72;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+    margin-top: -18%;
+    margin-right: 10%;
+}
+
+.greyPencil{
+    width: 37px;
+    height: 37px;
+    margin-top: 40px;
+}
+
+.buttonDelete{
+    background-color: #ff6c6c;
+    color: white;
+    width: 200px;
+    text-align: center;
+    padding:17px;
+    border-radius: 18px;
+    font-size: 20px;
+    margin-top: 26px;
+}
+
+.buttonLogout{
+    background-color: #ffac6c;
+    color: #fff;
+    width: 200px;
+    text-align: 'center';
+    padding: 17px;
+    border-radius: 18px;
+    font-size: 20px;
+}
+
+.alignButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 18px
+}
+
+.alignName{
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    gap:10px;
+    margin-left: 37px;
+}
+
+/*
+
+  titulo: {
+    alignSelf: "center",
+    fontSize: 30,
+    fontWeight: 'bold',
+    marginBottom: '6%',
+  },
+ 
+  }*/
